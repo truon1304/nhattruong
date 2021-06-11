@@ -5,11 +5,11 @@
 	<title>Đăng nhập &lsaquo; Trường-1304 &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="dashicons-css" href="https://truon1304.github.io/nhattruong/post.php?post=15/wp-includes/css/dashicons.min.css?ver=5.7.2" media="all">
-<link rel="stylesheet" id="buttons-css" href="https://truon1304.github.io/nhattruong/post.php?post=15/wp-includes/css/buttons.min.css?ver=5.7.2" media="all">
-<link rel="stylesheet" id="forms-css" href="https://truon1304.github.io/nhattruong/post.php?post=15/wp-admin/css/forms.min.css?ver=5.7.2" media="all">
-<link rel="stylesheet" id="l10n-css" href="https://truon1304.github.io/nhattruong/post.php?post=15/wp-admin/css/l10n.min.css?ver=5.7.2" media="all">
-<link rel="stylesheet" id="login-css" href="https://truon1304.github.io/nhattruong/post.php?post=15/wp-admin/css/login.min.css?ver=5.7.2" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://truon1304.github.io/nhattruong/Đặc Điểm Chó Phốc Sóc (Chó Pomeranian) Lưu Ý Quan Trọng Khi Nuôi/wp-includes/css/dashicons.min.css?ver=5.7.2" media="all">
+<link rel="stylesheet" id="buttons-css" href="https://truon1304.github.io/nhattruong/Đặc Điểm Chó Phốc Sóc (Chó Pomeranian) Lưu Ý Quan Trọng Khi Nuôi/wp-includes/css/buttons.min.css?ver=5.7.2" media="all">
+<link rel="stylesheet" id="forms-css" href="https://truon1304.github.io/nhattruong/Đặc Điểm Chó Phốc Sóc (Chó Pomeranian) Lưu Ý Quan Trọng Khi Nuôi/wp-admin/css/forms.min.css?ver=5.7.2" media="all">
+<link rel="stylesheet" id="l10n-css" href="https://truon1304.github.io/nhattruong/Đặc Điểm Chó Phốc Sóc (Chó Pomeranian) Lưu Ý Quan Trọng Khi Nuôi/wp-admin/css/l10n.min.css?ver=5.7.2" media="all">
+<link rel="stylesheet" id="login-css" href="https://truon1304.github.io/nhattruong/Đặc Điểm Chó Phốc Sóc (Chó Pomeranian) Lưu Ý Quan Trọng Khi Nuôi/wp-admin/css/login.min.css?ver=5.7.2" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
 		</head>
@@ -20,7 +20,7 @@
 		<div id="login">
 		<h1><a href="https://vi.wordpress.org/">Xây dựng bằng WordPress</a></h1>
 	
-		<form name="loginform" id="loginform" action="https://truon1304.github.io/nhattruong/post.php?post=15/wp-login.php" method="post">
+		<form name="loginform" id="loginform" action="https://truon1304.github.io/nhattruong/Đặc Điểm Chó Phốc Sóc (Chó Pomeranian) Lưu Ý Quan Trọng Khi Nuôi/wp-login.php" method="post">
 			<p>
 				<label for="user_login">Tên người dùng hoặc Địa chỉ Email</label>
 				<input type="text" name="log" id="user_login" class="input" value="" size="20" autocapitalize="off">
@@ -38,33 +38,33 @@
 						<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever"> <label for="rememberme">Tự động đăng nhập</label></p>
 			<p class="submit">
 				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Đăng nhập">
-									<input type="hidden" name="redirect_to" value="https://truon1304.github.io/nhattruong/post.php?post=15/wp-admin/">
+									<input type="hidden" name="redirect_to" value="https://truon1304.github.io/nhattruong/Đặc Điểm Chó Phốc Sóc (Chó Pomeranian) Lưu Ý Quan Trọng Khi Nuôi/wp-admin/">
 									<input type="hidden" name="testcookie" value="1">
 			</p>
 		</form>
 
 					<p id="nav">
-								<a href="https://truon1304.github.io/nhattruong/post.php?post=15/wp-login.php?action=lostpassword">Bạn quên mật khẩu?</a>
+								<a href="https://truon1304.github.io/nhattruong/Đặc Điểm Chó Phốc Sóc (Chó Pomeranian) Lưu Ý Quan Trọng Khi Nuôi/wp-login.php?action=lostpassword">Bạn quên mật khẩu?</a>
 			</p>
 					<script type="text/javascript">
 			function wp_attempt_focus() {setTimeout( function() {try {d = document.getElementById( "user_login" );d.focus(); d.select();} catch( er ) {}}, 200);}
 wp_attempt_focus();
 if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
-			<a href="https://truon1304.github.io/nhattruong/post.php?post=15/">&larr; Quay lại Trường-1304</a>		</p>
+			<a href="https://truon1304.github.io/nhattruong/Đặc Điểm Chó Phốc Sóc (Chó Pomeranian) Lưu Ý Quan Trọng Khi Nuôi/">&larr; Quay lại Trường-1304</a>		</p>
 			</div>
-	<script src="https://truon1304.github.io/nhattruong/post.php?post=15/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
-<script src="https://truon1304.github.io/nhattruong/post.php?post=15/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
+	<script src="https://truon1304.github.io/nhattruong/Đặc Điểm Chó Phốc Sóc (Chó Pomeranian) Lưu Ý Quan Trọng Khi Nuôi/wp-includes/js/jquery/jquery.min.js?ver=3.5.1" id="jquery-core-js"></script>
+<script src="https://truon1304.github.io/nhattruong/Đặc Điểm Chó Phốc Sóc (Chó Pomeranian) Lưu Ý Quan Trọng Khi Nuôi/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
 <script id="zxcvbn-async-js-extra">
-var _zxcvbnSettings = {"src":"https:\/\/truon1304.github.io\/nhattruong\/post.php?post=15\/wp-includes\/js\/zxcvbn.min.js"};
+var _zxcvbnSettings = {"src":"https:\/\/truon1304.github.io\/nhattruong\/Đặc Điểm Chó Phốc Sóc (Chó Pomeranian) Lưu Ý Quan Trọng Khi Nuôi\/wp-includes\/js\/zxcvbn.min.js"};
 </script>
-<script src="https://truon1304.github.io/nhattruong/post.php?post=15/wp-includes/js/zxcvbn-async.min.js?ver=1.0" id="zxcvbn-async-js"></script>
-<script src="https://truon1304.github.io/nhattruong/post.php?post=15/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4" id="wp-polyfill-js"></script>
+<script src="https://truon1304.github.io/nhattruong/Đặc Điểm Chó Phốc Sóc (Chó Pomeranian) Lưu Ý Quan Trọng Khi Nuôi/wp-includes/js/zxcvbn-async.min.js?ver=1.0" id="zxcvbn-async-js"></script>
+<script src="https://truon1304.github.io/nhattruong/Đặc Điểm Chó Phốc Sóc (Chó Pomeranian) Lưu Ý Quan Trọng Khi Nuôi/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=7.4.4" id="wp-polyfill-js"></script>
 <script id="wp-polyfill-js-after">
-( 'fetch' in window ) || document.write( '<script src="https://truon1304.github.io/nhattruong/post.php?post=15/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"><\/scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://truon1304.github.io/nhattruong/post.php?post=15/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"><\/scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://truon1304.github.io/nhattruong/post.php?post=15/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"><\/scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://truon1304.github.io/nhattruong/post.php?post=15/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"><\/scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://truon1304.github.io/nhattruong/post.php?post=15/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"><\/scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://truon1304.github.io/nhattruong/post.php?post=15/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"><\/scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="https://truon1304.github.io/nhattruong/post.php?post=15/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4"><\/scr' + 'ipt>' );
+( 'fetch' in window ) || document.write( '<script src="https://truon1304.github.io/nhattruong/Đặc Điểm Chó Phốc Sóc (Chó Pomeranian) Lưu Ý Quan Trọng Khi Nuôi/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"><\/scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://truon1304.github.io/nhattruong/Đặc Điểm Chó Phốc Sóc (Chó Pomeranian) Lưu Ý Quan Trọng Khi Nuôi/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"><\/scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://truon1304.github.io/nhattruong/Đặc Điểm Chó Phốc Sóc (Chó Pomeranian) Lưu Ý Quan Trọng Khi Nuôi/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"><\/scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://truon1304.github.io/nhattruong/Đặc Điểm Chó Phốc Sóc (Chó Pomeranian) Lưu Ý Quan Trọng Khi Nuôi/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"><\/scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://truon1304.github.io/nhattruong/Đặc Điểm Chó Phốc Sóc (Chó Pomeranian) Lưu Ý Quan Trọng Khi Nuôi/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"><\/scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://truon1304.github.io/nhattruong/Đặc Điểm Chó Phốc Sóc (Chó Pomeranian) Lưu Ý Quan Trọng Khi Nuôi/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"><\/scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="https://truon1304.github.io/nhattruong/Đặc Điểm Chó Phốc Sóc (Chó Pomeranian) Lưu Ý Quan Trọng Khi Nuôi/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4"><\/scr' + 'ipt>' );
 </script>
-<script src="https://truon1304.github.io/nhattruong/post.php?post=15/wp-includes/js/dist/hooks.min.js?ver=50e23bed88bcb9e6e14023e9961698c1" id="wp-hooks-js"></script>
-<script src="https://truon1304.github.io/nhattruong/post.php?post=15/wp-includes/js/dist/i18n.min.js?ver=db9a9a37da262883343e941c3731bc67" id="wp-i18n-js"></script>
+<script src="https://truon1304.github.io/nhattruong/Đặc Điểm Chó Phốc Sóc (Chó Pomeranian) Lưu Ý Quan Trọng Khi Nuôi/wp-includes/js/dist/hooks.min.js?ver=50e23bed88bcb9e6e14023e9961698c1" id="wp-hooks-js"></script>
+<script src="https://truon1304.github.io/nhattruong/Đặc Điểm Chó Phốc Sóc (Chó Pomeranian) Lưu Ý Quan Trọng Khi Nuôi/wp-includes/js/dist/i18n.min.js?ver=db9a9a37da262883343e941c3731bc67" id="wp-i18n-js"></script>
 <script id="wp-i18n-js-after">
 wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 </script>
@@ -78,12 +78,12 @@ var pwsL10n = {"unknown":"Mật khẩu mạnh không xác định","short":"Rấ
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", {"translation-revision-date":"2021-05-13 14:44:15+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code.":["%1$s đã ngừng hoạt động từ phiên bản %2$s! Sử dụng thay thế bằng %3$s."]}},"comment":{"reference":"wp-admin\/js\/password-strength-meter.js"}} );
 </script>
-<script src="https://truon1304.github.io/nhattruong/post.php?post=15/wp-admin/js/password-strength-meter.min.js?ver=5.7.2" id="password-strength-meter-js"></script>
-<script src="https://truon1304.github.io/nhattruong/post.php?post=15/wp-includes/js/underscore.min.js?ver=1.8.3" id="underscore-js"></script>
+<script src="https://truon1304.github.io/nhattruong/Đặc Điểm Chó Phốc Sóc (Chó Pomeranian) Lưu Ý Quan Trọng Khi Nuôi/wp-admin/js/password-strength-meter.min.js?ver=5.7.2" id="password-strength-meter-js"></script>
+<script src="https://truon1304.github.io/nhattruong/Đặc Điểm Chó Phốc Sóc (Chó Pomeranian) Lưu Ý Quan Trọng Khi Nuôi/wp-includes/js/underscore.min.js?ver=1.8.3" id="underscore-js"></script>
 <script id="wp-util-js-extra">
 var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-ajax.php"}};
 </script>
-<script src="https://truon1304.github.io/nhattruong/post.php?post=15/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
+<script src="https://truon1304.github.io/nhattruong/Đặc Điểm Chó Phốc Sóc (Chó Pomeranian) Lưu Ý Quan Trọng Khi Nuôi/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script id="user-profile-js-extra">
 var userProfileL10n = {"user_id":"0","nonce":"f8c71e8dbe"};
 </script>
@@ -94,7 +94,7 @@ var userProfileL10n = {"user_id":"0","nonce":"f8c71e8dbe"};
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", {"translation-revision-date":"2021-05-13 14:44:15+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"Your new password has not been saved.":["Mật khẩu mới của bạn chưa được lưu."],"Show":["Hiển thị"],"Hide":["Ẩn đi"],"Confirm use of weak password":["Chấp nhận sử dụng mật khẩu yếu."],"Hide password":["Ẩn mật khẩu"],"Show password":["Hiện mật khẩu"]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );
 </script>
-<script src="https://truon1304.github.io/nhattruong/post.php?post=15/wp-admin/js/user-profile.min.js?ver=5.7.2" id="user-profile-js"></script>
+<script src="https://truon1304.github.io/nhattruong/Đặc Điểm Chó Phốc Sóc (Chó Pomeranian) Lưu Ý Quan Trọng Khi Nuôi/wp-admin/js/user-profile.min.js?ver=5.7.2" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
 	</html>
